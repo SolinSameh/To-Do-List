@@ -1,0 +1,32 @@
+h1{
+	text-align:center;
+	color:#BA55D3;
+}
+#taskInput{
+	width:100%;
+	border-radius :5px;
+}
+button{
+	margin-top:6px;
+	color:white;
+	background-color:#BA55D3;
+	border-radius:8px;
+	padding:3px;
+}
+body{
+	background-color:#F5F5F5;
+}
+.app{
+	background-color:white;
+	border-radius:10px;
+	padding:10px;
+	margin:20px;
+}
+#taskList{
+	background-color:#F5F5F5;
+	border-radius:5px;
+}
+li{
+	margin:5px;
+	background-color:#F5F5F5;
+}
