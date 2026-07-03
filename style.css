@@ -1,20 +1,28 @@
 h1{
 	text-align:center;
 	color:#BA55D3;
+	font-size:35px;
+	
 }
 #taskInput{
 	width:100%;
-	border-radius :5px;
+	padding:10px;
+	box-size:18px;
+	border-radius:5px;
 }
 button{
-	margin-top:6px;
+	margin-top:10px;
 	color:white;
 	background-color:#BA55D3;
 	border-radius:8px;
-	padding:3px;
+	padding:10px 20px;
+	font-size:18px;
 }
 body{
 	background-color:#F5F5F5;
+	margin:0px;
+	padding:20px;
+	font-family:Arial, sans-serif;
 }
 .app{
 	background-color:white;
@@ -29,4 +37,5 @@ body{
 li{
 	margin:5px;
 	background-color:#F5F5F5;
+	font-size:20px;
 }
